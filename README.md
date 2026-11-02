@@ -5,8 +5,9 @@ Each folder corresponds to one article: `<product>/<article-name>/`.
 
 ## Scripts
 
-| Script | Article | Product |
-|--------|---------|---------|
+| File | Article | Product |
+|------|---------|---------|
+| [kylin-seccomp7.json](docs/docs-community-install-docker-kylinos/kylin-seccomp7.json) | [Installing ONLYOFFICE Docs on KylinOS using Docker](https://helpcenter.onlyoffice.com/docs/installation/docs-community-install-docker-kylinos.aspx) | ONLYOFFICE Docs |
 | [install.sh](workspace/control-panel-sso-shibboleth/install.sh) | [Configuring Shibboleth IdP for SSO](https://helpcenter.onlyoffice.com/workspace/administration/control-panel-sso-shibboleth.aspx#creatingshibbolethidp_block) | ONLYOFFICE Workspace |
 
 ## Usage
